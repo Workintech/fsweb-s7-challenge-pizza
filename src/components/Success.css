@@ -1,0 +1,22 @@
+.success-message {
+  background-color: #e6ffed;
+  border: 1px solid #2ecc71;
+  color: #2e7d32;
+  padding: 20px;
+  border-radius: 8px;
+  font-family: 'Segoe UI', sans-serif;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+}
+
+.success-message img {
+  width: 40px;
+  height: 40px;
+}
+
+.success-message p {
+  margin: 0;
+  font-size: 16px;
+}
